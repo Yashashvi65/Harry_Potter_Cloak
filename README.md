@@ -9,5 +9,5 @@ Now masking the front video with 'inverted mask' and background frame with norma
 Adding both the result of video mask and background mask.
 We will get the required output.
 # Packages used:
-opencv-python 4.2.0.32
-numpy 1.19.1
+-opencv-python 4.2.0.32
+-numpy 1.19.1
